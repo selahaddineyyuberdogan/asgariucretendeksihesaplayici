@@ -5,7 +5,7 @@ Türkiye'deki asgari ücret verilerine dayanarak paranın geçmişteki ve günü
 
 ## ✨ Özellikler
 
-- 🕰️ **1974'ten 2025'e kadar** tüm asgari ücret dönemleri
+- 🕰️ **2005'den 2025'e kadar** tüm asgari ücret dönemleri
 - 💰 **Gerçek zamanlı hesaplama** - Anında sonuç görüntüleme
 - 📱 **Tamamen duyarlı tasarım** - Tüm cihazlarda mükemmel çalışır
 - 🎨 **Modern arayüz** - Glass morphism ve gradient efektleri
